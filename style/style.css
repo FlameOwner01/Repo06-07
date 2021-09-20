@@ -3,18 +3,20 @@ h1 {
     text-align: center;
 }
 #sav{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 11%;
+    margin-right: 11%;
+    
 }
+
 .slika{
     box-sizing: border-box;
-    display: inline-block;
-    width: 320px;
-    height: 400;
+    display: block;
+    width: 28%;
+    height: max-content;
     padding: 20px;
     margin-left: 20px;
     float: left;
-    
+   
     
     
 }
