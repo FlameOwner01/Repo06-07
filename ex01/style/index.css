@@ -1,0 +1,39 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+#sav{
+    margin-left: 11%;
+    margin-right: 11%;
+    
+}
+
+.slika{
+    box-sizing: border-box;
+    display: block;
+    width: 28%;
+    height: max-content;
+    padding: 20px;
+    margin-left: 20px;
+    float: left;
+   
+    
+    
+}
+.Title{
+    display: inline-block;
+    color: rgb(0, 132, 255);
+    
+    
+    
+}
+body.Title{
+    text-align: left;
+}
+.opis{
+    text-align: justify;
+    padding: 16px;
+}
+.prvaSlika{
+    text-align: center;
+}
